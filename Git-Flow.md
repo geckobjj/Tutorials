@@ -71,3 +71,9 @@ At this point you'll get a second editor that contains all the commit messages. 
 `git push`
 
 ## Create Pull Request
+
+
+
+# Other Useful Commands:
+
+`git stash -all`
