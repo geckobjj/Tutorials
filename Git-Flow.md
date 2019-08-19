@@ -1,6 +1,6 @@
 # Git for Collaboration
 ## Clone a repo
-`git -clone <repo>`
+`git clone <repo>`
 
 ## Make a feature branch
 `git checkout -b <feature>`
